@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/Inspection",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "User",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
