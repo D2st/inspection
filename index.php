@@ -269,8 +269,8 @@
 </section>
 <section class="frame">
     <div class="mace">
-        <a href="zaklSd.html" target="_blank" class="first">Закл. эндо СД</a>
-        <a href="zaklGsd.html" target="_blank" class="second">Закл. эндо ГСД</a>
+        <a href="zaklsd.html" target="_blank" class="first">Закл. эндо СД</a>
+        <a href="zaklgsd.html" target="_blank" class="second">Закл. эндо ГСД</a>
 
 
     </div>
